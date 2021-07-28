@@ -19,7 +19,7 @@ int main() {
   int n, r;
   std::cout << "Enter a value for n = ";
   std::cin >> n;
-  std::cout << "Enter a value for r =y ";
+  std::cout << "Enter a value for r = ";
   std::cin >> r;
   std::cout << "nCr = ";
   std::cout << nCr(n,r);
